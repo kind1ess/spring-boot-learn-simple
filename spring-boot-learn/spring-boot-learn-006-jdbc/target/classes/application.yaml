@@ -1,0 +1,10 @@
+#springboot2.0以后需要添加initialization-mode: always配置
+spring:
+  datasource:
+    username: root
+    password: 123456
+    url: jdbc:mysql://192.168.3.22:3306/jdbc
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    initialization-mode: always
+    schema:
+      - classpath:department.sql

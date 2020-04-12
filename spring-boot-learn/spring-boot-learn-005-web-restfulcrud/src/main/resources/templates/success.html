@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <h3>执行成功</h3>
+<!--    th:text将div里的文本内容设置为指定的值-->
+<!--    th:任意html属性用来替换原生属性的值-->
+    <div th:text="${hello}" th:id="${hello}" th:class="${hello}"></div>
+    <hr>
+    <div th:text="${hello}"></div>
+    <hr>
+    <div th:utext="${hello}"></div>
+    <hr>
+    <h4 th:each="user:${users}" th:text="${user}"></h4>
+    <hr>
+    <h4>
+        <span th:each="user:${users}">[[${user}]]</span>
+    </h4>
+</body>
+</html>

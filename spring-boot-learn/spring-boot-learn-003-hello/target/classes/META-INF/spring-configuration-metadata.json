@@ -1,0 +1,32 @@
+{
+  "groups": [
+    {
+      "name": "person",
+      "type": "com.kind1ess.entity.Person",
+      "sourceType": "com.kind1ess.entity.Person"
+    }
+  ],
+  "properties": [
+    {
+      "name": "person.age",
+      "type": "java.lang.Integer",
+      "sourceType": "com.kind1ess.entity.Person"
+    },
+    {
+      "name": "person.date",
+      "type": "java.util.Date",
+      "sourceType": "com.kind1ess.entity.Person"
+    },
+    {
+      "name": "person.dog",
+      "type": "com.kind1ess.entity.Dog",
+      "sourceType": "com.kind1ess.entity.Person"
+    },
+    {
+      "name": "person.name",
+      "type": "java.lang.String",
+      "sourceType": "com.kind1ess.entity.Person"
+    }
+  ],
+  "hints": []
+}

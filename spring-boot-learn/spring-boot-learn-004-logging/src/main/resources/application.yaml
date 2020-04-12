@@ -1,0 +1,5 @@
+#调整日志级别
+logging:
+  level: {com.kind1ess.springboot: "trace"}
+  file:
+    name: springboot.log

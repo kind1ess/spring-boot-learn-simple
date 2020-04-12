@@ -1,0 +1,43 @@
+#spring配置文件：
+#    默认是.properties后缀的文件，官方推荐的是.yaml后缀的文件。
+#    配置文件的名字是固定的，必须是application.properties/yaml。
+#    yaml的语法：对象：
+#                  属性： 值
+#      属性与对象之间必须有缩进表示层级关系。
+#      属性：后面必须有空格才能跟值。
+#      对于map集合类型的属性：
+#        map：{k1:v1,k2:v2}
+#      对于list集合类型的属性：
+#        list：
+#          - e1
+#          - e2
+#        (-后面必须有空格)
+#    配置文件代码提示方法：
+#      在pom.xml中添加依赖：
+#        <dependency>
+#          <groupId>org.springframework.boot</groupId>
+#          <artifactId>spring-boot-configuration-processor</artifactId>
+#          <optional>true</optional>
+#        </dependency>
+#      并将需要配置的类加上：
+#        @ConfigurationProperties(prefix = "person")
+#    配置不同环境的文件：
+#      application-{profile}.properties/yaml
+#      切换配置文件：在主配置文件中添加：
+#       spring:
+#         profiles:
+#           active: {profile}
+#      打包后可以在命令行里使用--spring.profiles.active={profile}的方式切换环境
+#     可以用---表示分割文档块
+person:
+  name: 张三${random.uuid}
+  age: ${random.int[0,100]}
+  date: 2020/02/02
+  dog:
+    name: ${person.name}_李四
+    age: 20
+spring:
+  profiles:
+    active: dev
+  banner:
+    location: classpath:banner.txt
