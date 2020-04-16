@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1af4930c-e84a-4adc-b4eb-507435ef1e72" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/EdgeDownload/apache-maven-3.6.3-bin/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\EdgeDownload\apache-maven-3.6.3-bin\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aULL75zrGGDo6wzKVN4rVpaCJ3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+  </component>
+  <component name="RunManager" selected="JUnit.SpringBootLearn010ElasticsearchApplicationTests.testSearch">
+    <configuration name="SpringBootLearn010ElasticsearchApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-learn-010-elasticsearch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kind1ess.springboot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kind1ess.springboot" />
+      <option name="MAIN_CLASS_NAME" value="com.kind1ess.springboot.SpringBootLearn010ElasticsearchApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootLearn010ElasticsearchApplicationTests.testSearch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-learn-010-elasticsearch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kind1ess.springboot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kind1ess.springboot" />
+      <option name="MAIN_CLASS_NAME" value="com.kind1ess.springboot.SpringBootLearn010ElasticsearchApplicationTests" />
+      <option name="METHOD_NAME" value="testSearch" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootLearn010ElasticsearchApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-learn-010-elasticsearch" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kind1ess.springboot.SpringBootLearn010ElasticsearchApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SpringBootLearn010ElasticsearchApplicationTests.testSearch" />
+        <item itemvalue="JUnit.SpringBootLearn010ElasticsearchApplicationTests.contextLoads" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1af4930c-e84a-4adc-b4eb-507435ef1e72" name="Default Changelist" comment="" />
+      <created>1586785167551</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586785167551</updated>
+      <workItem from="1586785170228" duration="3157000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1342" height="281" key="GridCell.Tab.0.bottom" timestamp="1586788330349">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="281" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586788330349" />
+    <state width="1342" height="281" key="GridCell.Tab.0.center" timestamp="1586788330349">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="281" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586788330349" />
+    <state width="1342" height="281" key="GridCell.Tab.0.left" timestamp="1586788330349">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="281" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586788330349" />
+    <state width="1342" height="281" key="GridCell.Tab.0.right" timestamp="1586788330349">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="281" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586788330349" />
+    <state width="1342" height="281" key="GridCell.Tab.1.bottom" timestamp="1586786443850">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="281" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586786443850" />
+    <state width="1342" height="281" key="GridCell.Tab.1.center" timestamp="1586786443849">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="281" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1586786443849" />
+    <state width="1342" height="281" key="GridCell.Tab.1.left" timestamp="1586786443849">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="281" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1586786443849" />
+    <state width="1342" height="281" key="GridCell.Tab.1.right" timestamp="1586786443850">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="281" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1586786443850" />
+    <state x="457" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1586785178348">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="457" y="224" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1586785178348" />
+    <state x="439" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1586786294008">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="439" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1586786294008" />
+  </component>
+</project>

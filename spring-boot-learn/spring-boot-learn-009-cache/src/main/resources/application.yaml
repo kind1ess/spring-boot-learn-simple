@@ -1,0 +1,16 @@
+spring:
+  datasource:
+    url: jdbc:mysql://192.168.3.23:3306/bookstore?characterEncoding=UTF-8
+    username: root
+    password: 123456
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  redis:
+    host: 192.168.3.23
+mybatis:
+  configuration:
+    map-underscore-to-camel-case: true
+logging:
+  level: {com.kind1ess.springboot.mapper: debug}
+debug: false
+server:
+  port: 8181
